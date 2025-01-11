@@ -347,7 +347,7 @@ function resetGameData() {
     lvl = 1;
     pelletsEaten = 0;
     powerPelletsEaten = 0;
-    pacman.lives = 1;
+    pacman.lives = 3;
 }
 
 function drawEverything() {
